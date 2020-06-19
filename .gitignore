@@ -1,6 +1,6 @@
 cognitive-backend/venv/*
-cognitive-frontend/node-modules/*
+cognitive-frontend/node_modules/*
 cognitive-backend/venv/
-cognitive-frontend/node-modules/
-
+cognitive-frontend/node_modules/
+cognitive-backend/__pycache__/
 
