@@ -1,0 +1,6 @@
+cognitive-backend/venv/*
+cognitive-frontend/node-modules/*
+cognitive-backend/venv/
+cognitive-frontend/node-modules/
+
+
